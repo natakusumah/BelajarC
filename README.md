@@ -1,1 +1,1 @@
-# BelajarC
+# Belajar bahasa pemrograman C
